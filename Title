@@ -1,0 +1,2 @@
+name = "aishwarya kshirsagar"
+print(name.title())
