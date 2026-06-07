@@ -1,0 +1,4 @@
+name = "Aishwarya"
+print(name[0:4])
+print(name[6:])
+print(name[:4])
