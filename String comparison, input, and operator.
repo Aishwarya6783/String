@@ -1,0 +1,10 @@
+mail = "aishwaryakshirsagar2005@gmail.com"
+password = "Aish@123"
+
+signin_mail = input("Enter Your Mail: ")
+signin_password = input("Enter Your Password: ")
+
+if mail == signin_mail and password == signin_password:
+    print("You are in")
+else:
+    print("You are out")
